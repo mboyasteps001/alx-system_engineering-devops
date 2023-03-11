@@ -18,7 +18,7 @@ ___
 
 | S/N | Task | Explanation |
 
-| --- | ---- | ----------- |
+|-----|------|-------------|
 
 | 0 | [Where am I?](https://github.com/mboyasteps001/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory) | A script that prints the current working directory |
 
