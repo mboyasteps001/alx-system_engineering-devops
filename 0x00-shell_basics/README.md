@@ -4,7 +4,7 @@ This directory contains shell navigation scripts, projects were given to be subm
 
 ___
 
-#Resources
+# Resources
 
 * [Linux command cheat sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
@@ -14,7 +14,7 @@ ___
 
 ---
 
-#Tasks
+# Tasks
 
 | S/N | Task | Explanation |
 |-----|------|-------------|
